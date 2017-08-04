@@ -3,15 +3,15 @@ body {
   text-align: center;
 }
 
+#header,
+#design {
+  background-image: url("../images/the-flatiron-building.png");
+}
+
 h1,
 h2,
 h3 {
   font-weight: bold;
-}
-
-#header,
-#design {
-  background-image: url("../images/the-flatiron-building.png");
 }
 
 h1,
@@ -49,3 +49,5 @@ h6 {
 #buttom {
   background-color: dimgray;
 }
+
+/* 474 chars, 51 lines */
